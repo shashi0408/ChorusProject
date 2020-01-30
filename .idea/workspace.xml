@@ -72,6 +72,18 @@
       <screen x="0" y="23" width="1440" height="807" />
     </state>
     <state x="371" y="40" key="CommitChangelistDialog2/0.23.1440.807@0.23.1440.807" timestamp="1580407749486" />
+    <state x="164" y="113" key="MergeDialog" timestamp="1580408842767">
+      <screen x="0" y="23" width="1440" height="807" />
+    </state>
+    <state x="164" y="113" key="MergeDialog/0.23.1440.807@0.23.1440.807" timestamp="1580408842767" />
+    <state x="453" y="170" key="MultipleFileMergeDialog" timestamp="1580408849668">
+      <screen x="0" y="23" width="1440" height="807" />
+    </state>
+    <state x="453" y="170" key="MultipleFileMergeDialog/0.23.1440.807@0.23.1440.807" timestamp="1580408849668" />
+    <state x="434" y="159" key="VCS.ChangeListViewerDialog" timestamp="1580408797735">
+      <screen x="0" y="23" width="1440" height="807" />
+    </state>
+    <state x="434" y="159" key="VCS.ChangeListViewerDialog/0.23.1440.807@0.23.1440.807" timestamp="1580408797735" />
     <state x="529" y="371" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1580407391304">
       <screen x="0" y="23" width="1440" height="807" />
     </state>
@@ -80,9 +92,9 @@
       <screen x="0" y="23" width="1440" height="807" />
     </state>
     <state x="521" y="356" key="git4idea.ui.GitStashDialog/0.23.1440.807@0.23.1440.807" timestamp="1580407461994" />
-    <state x="500" y="288" key="git4idea.ui.GitUnstashDialog" timestamp="1580407380698">
+    <state x="500" y="288" key="git4idea.ui.GitUnstashDialog" timestamp="1580408849774">
       <screen x="0" y="23" width="1440" height="807" />
     </state>
-    <state x="500" y="288" key="git4idea.ui.GitUnstashDialog/0.23.1440.807@0.23.1440.807" timestamp="1580407380698" />
+    <state x="500" y="288" key="git4idea.ui.GitUnstashDialog/0.23.1440.807@0.23.1440.807" timestamp="1580408849774" />
   </component>
 </project>
